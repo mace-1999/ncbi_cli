@@ -13,7 +13,7 @@ source venv/bin/activate
 Install the attached package in the current virtual environment by running: 
 
 ```
-pip install ncbi
+pip install .
 ```
 
 Check install was succesful by running: 
